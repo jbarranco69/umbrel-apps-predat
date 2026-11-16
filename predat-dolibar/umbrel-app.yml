@@ -2,7 +2,7 @@ manifestVersion: 1
 id: predat-dolibarr
 category: finance
 name: Dolibarr
-version: "22.0"
+version: "24.0.3"
 tagline: ERP y CRM open source
 description: >-
   Dolibarr ERP/CRM para Fundación Promesa.
