@@ -2,7 +2,7 @@ manifestVersion: 1
 id: predat-dolibar
 category: finance
 name: Dolibarr
-version: "24.0.3"
+version: "22.0.x"
 tagline: ERP y CRM open source
 description: >-
   Dolibarr ERP/CRM.
