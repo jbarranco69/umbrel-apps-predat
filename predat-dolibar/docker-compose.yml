@@ -19,7 +19,7 @@ services:
       - ${APP_DATA_DIR}/data/db:/var/lib/mysql
 
   web:
-    image: dolibarr/dolibarr:24.0.3
+    image: dolibarr/dolibarr:22.0.x
     restart: on-failure
     depends_on:
       - db
