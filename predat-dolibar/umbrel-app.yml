@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: predat-dolibarr
+category: finance
+name: Dolibarr
+version: "22.0"
+tagline: ERP y CRM open source
+description: >-
+  Dolibarr ERP/CRM para Fundación Promesa.
+developer: Dolibarr
+website: https://www.dolibarr.org
+repo: https://github.com/Dolibarr/dolibarr
+support: https://www.dolibarr.org/forum
+port: 8095
+gallery: []
+path: ""
+defaultUsername: admin
+deterministicPassword: true
+dependencies: []
+releaseNotes: ""
+submitter: Juanjo
+submission: ""
